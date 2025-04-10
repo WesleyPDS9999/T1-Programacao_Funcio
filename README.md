@@ -1,2 +1,2 @@
-# T1-Programacao_Funcio
+# T1-Programacao_Funcional
 Wesley Pereira
